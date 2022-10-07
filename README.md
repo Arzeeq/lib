@@ -1,0 +1,2 @@
+# lib
+print an array
